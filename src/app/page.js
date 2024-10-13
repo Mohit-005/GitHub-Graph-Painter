@@ -54,11 +54,7 @@ export default function Home() {
             onClick={(e) => {
               e.preventDefault();
               bannerClick();
-                window.open("mailto:me@matthewtrent.me");
-              // window.open(
-              //   "https://matthewtrent.me/covehack/summer-2024",
-              //   "_blank"
-              // );
+                window.open("mailto:gauravmohit1324@gmail.com");
             }}
             target="_blank"
             href="javascript:;"
